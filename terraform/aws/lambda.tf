@@ -22,9 +22,10 @@ EOF
     git_last_modified_at = "2020-06-16 14:46:24"
     git_last_modified_by = "nimrodkor@gmail.com"
     git_modifiers        = "nimrodkor"
-    git_org              = "bridgecrewio"
+    git_org              = "cmartinsjr"
     git_repo             = "terragoat"
     yor_trace            = "93cfa6f9-a257-40c3-b7dc-3c3686929734"
+    my_tag               = ""
   }
 }
 
@@ -51,8 +52,9 @@ resource "aws_lambda_function" "analysis_lambda" {
     git_last_modified_at = "2021-05-02 10:06:10"
     git_last_modified_by = "nimrodkor@users.noreply.github.com"
     git_modifiers        = "nimrodkor"
-    git_org              = "bridgecrewio"
+    git_org              = "cmartinsjr"
     git_repo             = "terragoat"
     yor_trace            = "f7d8bc47-e5d9-4b09-9d8f-e7b9724d826e"
+    my_tag               = ""
   }
 }
